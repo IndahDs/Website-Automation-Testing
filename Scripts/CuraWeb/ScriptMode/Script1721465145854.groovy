@@ -49,6 +49,7 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Login/SpyWeb/Login Toggle Menu/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle'))
 WebUI.focus(findTestObject('Object Repository/Login/SpyWeb/Login Toggle Menu/Page_CURA Healthcare Service/a_Login'))
+WebUI.delay(5)
 WebUI.takeScreenshot()
 
 "proses login"

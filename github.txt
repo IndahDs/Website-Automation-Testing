@@ -7,7 +7,10 @@ c190cbd3-5f98-434a-804e-720b10d7d8ed
 
 katalonc -noSplash -runMode=console -projectPath="C:\Users\asus\Downloads\Sharing Session Katalon Studio\Website\Demo\DemoKatalonWebsite\DemoKatalonWebsite.prj" -retry=0 -testSuitePath="Test Suites/Login" -browserType="Chrome" -executionProfile="default" -apiKey="c190cbd3-5f98-434a-804e-720b10d7d8ed" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true
 
-pass Jenkins : 960fe43480bc4a2b98c92897b91aa777
+pass Jenkins : 
+960fe43480bc4a2b98c92897b91aa777
+c190cbd3-5f98-434a-804e-720b10d7d8ed
+
 email : dsindah87@gmail.com
 pass : Indahjenkins88#
 username : IndahDs
