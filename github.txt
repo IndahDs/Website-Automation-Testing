@@ -1,5 +1,7 @@
 github
 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
+baru:
+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
 https://github.com/IndahDs/Website-Automation-Testing.git
 
 katalon api key
