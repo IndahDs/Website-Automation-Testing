@@ -60,7 +60,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Login/SpyWeb/Login Togg
 WebUI.click(findTestObject('Object Repository/Login/SpyWeb/Login Toggle Menu/Page_CURA Healthcare Service/button_Login'))
 	
 WebUI.delay(5)
-
 WebUI.takeScreenshot()
-
 WebUI.closeBrowser()
